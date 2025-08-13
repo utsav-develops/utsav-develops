@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 Email me at : utsavacharya96@gmail.com
 - 😄 he/him
-- ⚡ Fun fact: Venus is actually brighter than the sun & if you believe that, you are doomed 💀
-
+- ⚡ Fun fact: I am a coder across the entire multiverse.
 <!---
 utsav-develops/utsav-develops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
