@@ -2,5 +2,5 @@
 - 👀 I’m interested in doing cross-platform apps
 - 🌱 I’m currently learning to create AI powered apps.
 - 📫 Email me at : utsavacharya96@gmail.com
-- 😄 Stacks : React Native/React, PHP Laravel, Python-FastAPI
-- ⚡ Fun fact: I am a coder across the entire multiverse.
+- 😄 Stacks : React-Native/React, PHP Laravel, Python-FastAPI
+- ⚡ Quote : "Life is tragedic on short-term & comedic on the long-run"
