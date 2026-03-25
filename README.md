@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utsav-develops
 - 👀 I’m interested in doing cross-platform apps
 - 🌱 I’m currently learning to create AI powered apps.
-- 📫 Email me at : utsavacharya96@gmail.com
+- 📫 Hire me at : hireme@utsav.work
 - 😄 Stacks : React-Native/React, PHP Laravel, Python-FastAPI
 - ⚡ Quote: "Life is tragic in the short-term and comedic in the long run"
 - 🌃 More at : https://utsav.work
