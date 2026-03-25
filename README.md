@@ -4,4 +4,4 @@
 - 📫 Email me at : utsavacharya96@gmail.com
 - 😄 Stacks : React-Native/React, PHP Laravel, Python-FastAPI
 - ⚡ Quote: "Life is tragic in the short-term and comedic in the long run"
-- 🌃 Building : https://utsav.work
+- 🌃 More at : https://utsav.work
