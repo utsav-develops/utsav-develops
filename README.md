@@ -2,6 +2,7 @@
 - 👀 I’m interested in doing cross-platform apps
 - 🌱 I’m currently learning to create AI powered apps.
 - 📫 Hire me at : hireme@utsav.work
+- 📧 Contact me at : contact@utsav.work
 - 😄 Stacks : React-Native/React, PHP Laravel, Python-FastAPI
 - ⚡ Quote: "Life is tragic in the short-term and comedic in the long run"
 - 🌃 More at : https://utsav.work
