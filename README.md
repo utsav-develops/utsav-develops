@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @utsav-develops
-- 👀 I’m interested in doing cross-platform apps
+- 👀 I’m interested in anything that breaks my sleep pattern
 - 🌱 I’m currently trying to find efficiency bottlenecks in current system architectures.
 - 📫 Hire me at : hireme@utsav.work
 - 📧 Contact me at : contact@utsav.work
