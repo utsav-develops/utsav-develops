@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @utsav-develops
 - 👀 I’m interested in doing cross-platform apps
-- 🌱 I’m currently learning to create AI powered apps.
+- 🌱 I’m currently trying to find efficiency bottlenecks in current system architectures.
 - 📫 Hire me at : hireme@utsav.work
 - 📧 Contact me at : contact@utsav.work
-- 😄 Stacks : React-Native/React, PHP Laravel, Python-FastAPI
+- 😄 Where I Excel : Typescript, Python, & PHP
+- 🖼️ Frameworks I Use : React, FastAPI, Laravel
 - ⚡ Quote: "Life is tragic in the short-term and comedic in the long run"
 - 🌃 More at : https://utsav.work
