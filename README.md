@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @utsav-develops
-- 👀 I’m interested in anything that breaks my sleep pattern
-- 🌱 I’m currently trying to find efficiency bottlenecks in current system architectures.
-- 📫 Hire me at : hireme@utsav.work
-- 📧 Contact me at : contact@utsav.work
-- 😄 Where I Excel : Typescript, Python, & PHP
-- 🖼️ Frameworks I Use : React, FastAPI, Laravel
-- ⚡ Quote: "Life is tragic in the short-term and comedic in the long run"
-- 🌃 More at : https://utsav.work
+Hi, utsav here. 
+
+https://utsav.work
+
