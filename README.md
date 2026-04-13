@@ -1,6 +1,6 @@
 #### Hi, Utsav here :)
 
-Full stack typescript engineer from the himalayas.
+Typescript engineer from the himalayas.
 
 I work across Typescript, Php & Python. My background spans healthcare, fintech, government, and e-commerce. And lately I've been participating in ML contests to learn about its essence in the real world.
 
