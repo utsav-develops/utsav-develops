@@ -1,9 +1,9 @@
 #### Hi, Utsav here :)
 
+Taking a short break... casually learning what hello world means again.
 
-I work across Typescript, Php & Python. My background spans healthcare, fintech, government, and e-commerce. And lately I've been participating in ML contests to learn about its essence in the real world.
-
-I like helping & collaborating with communities.
+I work across TypeScript, PHP & Python. Background in healthcare, fintech, government, and e-commerce.
+I like tinkering with software, hardware, anything that breaks.
 
 - 🌐 [utsav.work](https://utsav.work)
 - 📬 [contact@utsav.work](mailto:contact@utsav.work)
