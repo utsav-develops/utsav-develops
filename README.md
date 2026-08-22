@@ -71,7 +71,7 @@ Single-file tool, no backend, no build step.
 
 ### Open to
 
-Hands-on engineering roles, TypeScript / full-stack, where I write code, not manage a roadmap.
+Hands-on engineering roles, TypeScript / full-stack, where I write code...
 
 📬 **[contact@utsav.work](mailto:contact@utsav.work)**
 
