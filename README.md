@@ -8,7 +8,7 @@ I build end-to-end: APIs, mobile apps, infra, and the occasional AI-powered thin
 
 I like owning problems fully rather than one slice of them. If it breaks, software or hardware, I'll probably try to fix it before asking anyone else.
 
-**Stack:** TypeScript · React / React Native · Next.js · PHP (Laravel) · Python · Go
+**Stack:** TypeScript · React / React Native · Next.js · PHP (Laravel) · Node.js · Python · Go
 **Also comfortable with:** PostgreSQL, MongoDB, Docker, AWS, LLM integration (OpenAI, RAG)
 
 ---
