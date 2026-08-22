@@ -59,7 +59,6 @@ A small JS script that hooks into the Claude/Groq APIs and turns cryptic termina
 Built to learn how healthcare data moves and where the friction points are between system-level processes.
 
 **5th Member**: local RAG AI chat engine.
-[fill in the motivation here, same as the others, what made you build this]
 
 **RepoTales**: turns GitHub repos into comic-strip explainers, powered by the Claude API.
 Single-file tool, no backend, no build step.
