@@ -4,9 +4,9 @@
 
 Full-stack engineer, 4+ years.
 
-I build end-to-end: APIs, mobile apps, infra, and the occasional AI-powered thing that probably didn't need to exist but was fun to make. Background spans **healthcare, fintech, government, and e-commerce** — I've shipped production systems for home-care platforms, government automation projects, and small businesses that just needed something that worked.
+I build end-to-end: APIs, mobile apps, infra, and the occasional AI-powered thing that probably didn't need to exist but was fun to make. Background spans **healthcare, fintech, government, and e-commerce**. I've shipped production systems for home-care platforms, government automation projects, and small businesses that just needed something that worked.
 
-I like owning problems fully rather than one slice of them. If it breaks — software or hardware — I'll probably try to fix it before asking anyone else.
+I like owning problems fully rather than one slice of them. If it breaks, software or hardware, I'll probably try to fix it before asking anyone else.
 
 **Stack:** TypeScript · React / React Native · Next.js · PHP (Laravel) · Python · Go
 **Also comfortable with:** PostgreSQL, MongoDB, Docker, AWS, LLM integration (OpenAI, RAG)
