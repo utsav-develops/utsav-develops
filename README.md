@@ -74,5 +74,6 @@ Single-file tool, no backend, no build step.
 Hands-on engineering roles, TypeScript / full-stack, where I write code...
 
 📬 **[contact@utsav.work](mailto:contact@utsav.work)**
+📬 **[utsavacharya96@gmail.com](mailto:utsavacharya96@gmail.com)**
 
 </div>
